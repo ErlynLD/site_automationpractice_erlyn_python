@@ -9,7 +9,7 @@ In order to run this project in your own machine you need to have installed:
 * pytest: pip install pytest in source folder
           it might require: python -m pip install --upgrade pip
           
- * chromedriver: downloaded in a fixed route of your machine
+ * ChromeDriver: downloaded in a fixed route and added to PATH Environment Variable
  * selenium: pipenv install selenium
  
  
